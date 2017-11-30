@@ -790,6 +790,27 @@ users(email: "@yahoo.com") {
             </H4>
           </Center>
         </Slide>
+        <Slide transition="cross-fade" bgColor="#1D1F27">
+          <Center>
+            <H3 color="rgb(219, 112, 147)">Code Example Links</H3>
+            <H4 color="#DA9962" left>
+              <a
+                target="_blank"
+                style={{ color: '#DA9962' }}
+                href="https://github.com/tulsajs/graphql-client-example">
+                https://github.com/tulsajs/graphql-client-example
+              </a>
+            </H4>
+            <H4 color="rgb(219, 112, 147)" left>
+              <a
+                target="_blank"
+                style={{ color: 'rgb(219, 112, 147)' }}
+                href="https://github.com/tulsajs/graphql-server-example">
+                https://github.com/tulsajs/graphql-server-example
+              </a>
+            </H4>
+          </Center>
+        </Slide>
       </Deck>
     );
   }
